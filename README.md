@@ -1,7 +1,7 @@
 # JobDescriptionScraper-Indeed
 Overview
 -
-Web scraper that identifies the most frequently used words in an Indeed job description to help prospective employees better tailor their job applications before submitting to Indeed.com jobs. *This only words for Indeed job postings!!!*
+Web scraper that identifies the most frequently used words in an Indeed job description to help prospective employees better tailor their job applications before submitting to Indeed.com jobs. *This only works for Indeed job postings!!!*
 
 To run:
 -
