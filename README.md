@@ -17,4 +17,5 @@ For BOTH methods, you must download the following libraries:
 - Ntlk
 
 **Input**: URL of Indeed Job Description
+
 **Output**: list of most frequenly used words, in order of most used to least used
